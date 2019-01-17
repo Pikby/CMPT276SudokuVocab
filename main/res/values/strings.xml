@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="randomize">Randomize</string>
+    <string name="button11">Button</string>
+    <string name="button12">Button</string>
+    <string name="button13">Button</string>
+    <string name="button21">Button</string>
+    <string name="button22">Button</string>
+    <string name="button23">Button</string>
+    <string name="button33">Button</string>
+    <string name="button32">Button</string>
+    <string name="button31" />
+</resources>
